@@ -96,3 +96,4 @@ C:\Users\nashl\OneDrive\Desktop\VS Repo\MvcMovie\obj\Debug\net9.0\refint\MvcMovi
 C:\Users\nashl\OneDrive\Desktop\VS Repo\MvcMovie\obj\Debug\net9.0\MvcMovie.pdb
 C:\Users\nashl\OneDrive\Desktop\VS Repo\MvcMovie\obj\Debug\net9.0\MvcMovie.genruntimeconfig.cache
 C:\Users\nashl\OneDrive\Desktop\VS Repo\MvcMovie\obj\Debug\net9.0\ref\MvcMovie.dll
+C:\Users\nashl\OneDrive\Desktop\VS Repo\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json
