@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|c:\\users\\nashl\\onedrive\\desktop\\vs repo\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|c:\\users\\nashl\\onedrive\\desktop\\vs repo\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Migrations\\20250225200656_Rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250225200656_Rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|c:\\users\\nashl\\onedrive\\desktop\\vs repo\\mvcmovie\\models\\speeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|solutionrelative:models\\speeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|c:\\users\\nashl\\onedrive\\desktop\\vs repo\\mvcmovie\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|solutionrelative:views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|c:\\users\\nashl\\onedrive\\desktop\\vs repo\\mvcmovie\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|solutionrelative:views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|c:\\users\\nashl\\onedrive\\desktop\\vs repo\\mvcmovie\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|solutionrelative:views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|c:\\users\\nashl\\onedrive\\desktop\\vs repo\\mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|solutionrelative:views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|c:\\users\\nashl\\onedrive\\desktop\\vs repo\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|c:\\users\\nashl\\onedrive\\desktop\\vs repo\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|c:\\users\\nashl\\onedrive\\desktop\\vs repo\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|c:\\users\\nashl\\onedrive\\desktop\\vs repo\\mvcmovie\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|solutionrelative:models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{770D08FB-F315-45BD-BA6E-3E514300B033}|MvcMovie.csproj|c:\\users\\nashl\\onedrive\\desktop\\vs repo\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,63 +54,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Views\\Movies\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
-              "ToolTip": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Views\\Movies\\Index.cshtml",
-              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T19:36:39.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAAwJEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:35:20.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Models\\Movie.cs",
-              "RelativeToolTip": "Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Title": "20250225200656_Rating.cs",
+              "DocumentMoniker": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Migrations\\20250225200656_Rating.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250225200656_Rating.cs",
+              "ToolTip": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Migrations\\20250225200656_Rating.cs",
+              "RelativeToolTip": "Migrations\\20250225200656_Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T19:34:43.462Z",
+              "WhenOpened": "2025-02-25T20:06:56.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T20:04:57.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T20:04:49.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T20:03:53.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T20:02:45.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:51:33.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwD4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T19:46:05.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwHQAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:42:10.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SpeedData.cs",
               "DocumentMoniker": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Models\\SpeedData.cs",
               "RelativeDocumentMoniker": "Models\\SpeedData.cs",
               "ToolTip": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Models\\SpeedData.cs",
               "RelativeToolTip": "Models\\SpeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAhwBEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwDYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T18:25:36.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "MovieGenreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\MovieGenreViewModel.cs",
+              "ToolTip": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "RelativeToolTip": "Models\\MovieGenreViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:54:34.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nashl\\OneDrive\\Desktop\\VS Repo\\MvcMovie\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
